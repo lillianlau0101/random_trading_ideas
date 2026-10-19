@@ -1,0 +1,16 @@
+{"id": "q01", "question": "上交所主板普通股票（非风险警示）的价格涨跌幅限制是多少？", "expect": ["10%|百分之十"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q02", "question": "科创板股票的价格涨跌幅限制是多少？", "expect": ["20%|百分之二十"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q03", "question": "创业板股票的价格涨跌幅限制是多少？", "expect": ["20%|百分之二十"], "doc": "深圳证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q04", "question": "2026年修订后，上交所主板风险警示股票的涨跌幅限制是多少？", "expect": ["10%|百分之十"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q05", "question": "上交所开盘集合竞价的时间段是什么？", "expect": ["9:15|9：15|09:15", "9:25|9：25|09:25"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q06", "question": "上交所收盘集合竞价的时间段是什么？", "expect": ["14:57|14：57", "15:00|15：00"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q07", "question": "通过竞价交易买入上交所主板股票，申报数量有什么要求？", "expect": ["100股|100 股"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q08", "question": "科创板股票竞价交易的单笔申报数量最低是多少股？", "expect": ["200股|200 股"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q09", "question": "2026年修订后，上交所盘后固定价格交易适用于哪些证券？", "expect": ["ETF|交易型开放式"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q10", "question": "深交所主板普通股票的价格涨跌幅限制是多少？", "expect": ["10%|百分之十"], "doc": "深圳证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q11", "question": "通过沪股通买卖科创板股票，对投资者有什么要求？", "expect": ["机构专业投资者|专业投资者"], "doc": "沪港通", "answerable": true, "verified": false}
+{"id": "q12", "question": "沪股通、深股通的每日额度分别是多少？", "expect": ["520亿|520 亿|52 billion|52billion"], "doc": "", "answerable": true, "verified": false}
+{"id": "q13", "question": "新股在上交所主板上市后，前几个交易日不设价格涨跌幅限制？", "expect": ["5个交易日|五个交易日|前5|前五"], "doc": "上海证券交易所交易规则", "answerable": true, "verified": false}
+{"id": "q14", "question": "纽约证券交易所的熔断机制是怎样的？", "expect": [], "doc": "", "answerable": false, "verified": true}
+{"id": "q15", "question": "2027年A股会不会取消股票交易印花税？", "expect": [], "doc": "", "answerable": false, "verified": true}
+{"id": "q16", "question": "美国 SEC Rule 15c3-5 对券商有什么要求？", "expect": [], "doc": "", "answerable": false, "verified": true}

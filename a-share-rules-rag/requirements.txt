@@ -1,0 +1,6 @@
+anthropic
+pypdf
+python-docx
+jieba
+rank_bm25
+opencc-python-reimplemented
